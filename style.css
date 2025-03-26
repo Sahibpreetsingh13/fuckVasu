@@ -1,0 +1,40 @@
+#body{
+    background-color: rgba(0, 0, 0, 0.735);
+
+}
+
+.heading{
+    display: flex;
+    margin: auto;
+}
+
+.image{
+    display: flex;
+    margin: auto;
+}
+.para{
+    padding-top: 5px;
+    align-self: center;
+    text-align: center;
+    color: lightblue;
+    background: seagreen;
+    border: 3px solid black;
+    font-size: xx-large;
+}
+
+.sex{
+    font-size: xx-large;
+    height: 50px;
+    width: 250px;
+    display: flex;
+    margin: auto;
+}
+#mybtn{
+    display: flex;
+    background-color: cyan;
+    color: whitesmoke;
+    width: 100px;
+    height: 100px;
+    font-size: xx-large;
+    margin: auto;
+}
